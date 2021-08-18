@@ -24,4 +24,4 @@ HTML, Javascript, CSS and Bootstrap were used to display the visualiztions built
 View the deployed web page here...
 
 ## Sources
-* https://developer.pubg.com/?locale=en
+* PUBG API: https://developer.pubg.com/?locale=en
