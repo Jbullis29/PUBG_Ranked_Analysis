@@ -33,62 +33,17 @@ html {
   font-weight: bold;
 }
 
-.legend i {
-  width: 18px;
-  height: 18px;
-  float: left;
-  margin-right: 8px;
+.navbar-custom {
+  background-color: brown;
 }
 
-#doChart {
-  background-color:whitesmoke;
-  border: 1px solid lightgrey;
-  padding: 10px;
-  border-radius: 10px;
-  width: 100%;
-  height: 100%;
+table, th, tr, td {
+  table-layout:auto;
+  border: 1px solid white;
+  width:inherit;
+  margin-left: auto;
+  margin-right: auto;
   margin-top: 10px;
+  color: white;
+  background-color: black;
 }
-
-#barChart {
-  background-color:whitesmoke;
-  border: 1px solid lightgrey;
-  padding: 10px;
-  border-radius: 10px;
-  width: 100%;
-  margin-top: 10px;
-  margin-bottom: 10px;
-}
-
-#radarChart {
-  padding: 10px;
-  border: 1px solid lightgrey;
-  border-radius: 10px;
-  width: 100%;
-  margin-top: 10px;
-  margin-bottom: 10px;
-}
-
-#panel {
-  padding: 10px;
-  border: 1px solid lightgrey;
-  border-radius: 10px;
-  width: 100%;
-  margin-top: 10px;
-  margin-bottom: 10px;
-}
-
-#gauge {
-  padding: 10px;
-  border: 1px solid lightgrey;
-  border-radius: 10px;
-  width: 100%;
-  margin-top: 10px;
-  margin-bottom: 10px;
-}
-
-#selDataset {
-  margin: 10px;
-}
-
-
