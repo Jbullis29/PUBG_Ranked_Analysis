@@ -6,7 +6,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Pubg</title>
+  <title>Ranked Player Data</title>
 
   <!-- Bootstrap CSS -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
@@ -20,12 +20,15 @@
  
   <nav class="navbar navbar-expand-lg navbar-dark navbar-custom">
     <div class="container-fluid">
-      <a class="navbar-brand" href="Dashboard.html">Home</a>
+      <a class="navbar-brand" href="../index.html">Home</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbarNavDropdown">
         <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+          <li class="nav-item">
+            <a class="nav-link" aria-current="page" href="#">Dashboard</a>
+          </li>
           <!-- ML Dropdown -->
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -43,16 +46,10 @@
               Data
             </a>
             <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDropdownMenuLink">
-              <!-- <li><a class="dropdown-item" href="match_samps.html">Match Data</a></li> -->
-              <!-- <li><a class="dropdown-item" href="model_samps.html">Model Samples</a></li> -->
               <li><a class="dropdown-item nav-link active" href="player_rank.html">Ranked Player Data</a></li>
               <li><a class="dropdown-item" href="sample_matchIds.html">MatchID Data</a></li>
               <li><a class="dropdown-item" href="season_one_and_two_ranked_player_stats.html">Season 1 & 2 Ranked Player Stats</a></li>
-              <!-- <li><a class="dropdown-item" href="test_telemetry.html">Telemetry Data</a></li> -->
             </ul>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" aria-current="page" href="#">MORE PAGES???</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="https://na.battlegrounds.pubg.com/" target="_blank">PUBG Official Site</a>
