@@ -1,5 +1,4 @@
 # PUBG_Ranked_Analysis
-### Visualizing Air Quality in Colorado 
 
 ## About
 This repository was built to analyze and visualize data from PUBG matches with the end goal of using machine learning to predict outcomes and identify the most important features. 
