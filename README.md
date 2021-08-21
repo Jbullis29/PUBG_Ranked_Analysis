@@ -20,7 +20,7 @@ HTML, Javascript, CSS and Bootstrap were used to display the visualiztions built
 * Scikit-Learn
 
 ## Deployment
-View the deployed web page here...
+View the deployed web page here... https://jbullis29.github.io/PUBG_Ranked_Analysis/
 
 ## Sources
 * PUBG API: https://developer.pubg.com/?locale=en
