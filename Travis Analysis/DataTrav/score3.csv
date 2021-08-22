@@ -1,0 +1,5 @@
+0,0,Support Vector Machines,0.9572025052192068
+1,0,K Nearest Neighbors,0.9530271398747392
+2,0,Decision Tree Classifier,0.941544885177453
+3,1,Decision Tree Classifier,0.941544885177453
+4,2,Random Forest Classifier,0.9613778705636744
