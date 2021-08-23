@@ -5,7 +5,7 @@ The 2021 PUBG Mobile Global Championship has a $6,000,000 prize pool. But that's
 
 ## Wait! What Even is PUBG: BATTLEGOUNDS?
 
-PUBG: BATTLEGROUNDS is a battle royale shooter game in which 100 people are pitted against each other, sometimes in teams, to scavenge, kill, and survive. The game ends when only one player (or team) remains. There are multiple maps and players are randomly assigned to maps. 
+PUBG: BATTLEGROUNDS is a battle royale shooter game in which 100 people are pitted against each other, sometimes in teams, to scavenge, kill, and survive. The game ends when only one player (or team) remains. There are multiple maps and players can choose which they want to play. Players can add other players to a friends list and chose to play on the same team with them.
 
 To begin, you must personalize your character. There are many options available including gender presentation, skin color, and hair color.
 
