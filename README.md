@@ -35,7 +35,7 @@ and [Leah](https://github.com/leahdill) using the standard issue parachute
 and [TravBZ](https://github.com/Travbz) with a parachute skin he earned through gameplay
 ![alt text](https://github.com/Jbullis29/PUBG_Ranked_Analysis/blob/master/pictures/TravBZ-chute.jpg)
 
-After safely landing, you have to get equipment-armor, weapons, vehicles, etc. to use in your fight. There are also consumables that can be used to restore your health. Every few minutes, the playable area shrinks. Any players outside the playable area take continuous damage until they die or reenter the playable area. This continously forces remaining players closer together and speeds up the game as it becomes harder to hide from the enemy. 
+After safely landing, you have to get equipment-armor, weapons, vehicles, etc. to use in your fight. There are also consumables that can be used to restore your health. Every few minutes, the playable area shrinks. Any players outside the playable area take continuous damage until they die or reenter the playable area. This forces remaining players closer together and speeds up the game as it becomes harder to hide from the enemy. 
 
 This is just one example of a vehicle that can be driven, courtesy of [TravBZ](https://github.com/Travbz)
 ![alt text](https://github.com/Jbullis29/PUBG_Ranked_Analysis/blob/master/pictures/TravBZ-car.jpg)
@@ -50,8 +50,9 @@ Here we have [Jordan](https://github.com/Jbullis29) displaying both luck and ski
 
 
 
+## What We Did
 
-This repository was built to analyze and visualize data from PUBG matches with the end goal of using machine learning to predict outcomes and identify the most important features. 
+This project was intended to analyze and visualize data from PUBG matches with the end goal of using machine learning to predict outcomes and identify the most important features. 
 
 In this project, we utilized Jupyter Notebook and Python to make an API call from PUBG's developer API.  This data was cleaned using Pandas in Jupyter notebook then used with Scikit-Learn to evaluate different Machine Learning models. 
 
