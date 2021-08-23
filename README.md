@@ -15,7 +15,7 @@ Once your character looks the way you want it to, you can enter your dashboard. 
 
 This is [TravBZ](https://github.com/Travbz)'s dashboard:
 
-![alt text](https://github.com/Jbullis29/PUBG_Ranked_Analysis/blobl/main/pictures/TravBZ-dashboard.jpg)
+![alt text](https://github.com/Jbullis29/PUBG_Ranked_Analysis/blob/main/pictures/TravBZ-dashboard.jpg)
 
 
 
