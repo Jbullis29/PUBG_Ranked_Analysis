@@ -41,11 +41,11 @@ After safely landing, you have to get equipment&ndash;armor, weapons, vehicles, 
 Here, [TravBZ](https://github.com/Travbz) is driving a car. When entering a vehicle, you have the option of being a driver (if there isn't one already) or a passenger.Once a vehicle has been entered, the control options change and revert back once you have exited.
 ![alt text](https://github.com/Jbullis29/PUBG_Ranked_Analysis/blob/master/pictures/TravBZ-car.jpg)
 
-[TravBZ](https://github.com/Travbz) on the hunt for better equipment
-![alt text](https://github.com/Jbullis29/PUBG_Ranked_Analysis/blob/master/pictures/TravBZ-run.jpg)
-
-and [Katie](https://github.com/KStrange89) picking up some equipment
+[Katie](https://github.com/KStrange89) is picking up some equipment
 ![alt text](https://github.com/Jbullis29/PUBG_Ranked_Analysis/blob/master/pictures/Katie-pickup.png)
+
+and [TravBZ](https://github.com/Travbz) is on the hunt
+![alt text](https://github.com/Jbullis29/PUBG_Ranked_Analysis/blob/master/pictures/TravBZ-run.jpg) 
 
 While skill definitely plays a role in who wins and loses, there is also a certain amount of luck. Was the area you chose to land filled with awesome equipment and few opposing players? Or did you have to fight off a lot of other players for mediocre stuff?
 
