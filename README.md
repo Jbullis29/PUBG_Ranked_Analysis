@@ -68,7 +68,7 @@ HTML, Javascript, CSS and Bootstrap were used to display the visualiztions built
 * Jupyter Notebook
 * Pandas
 * Python
-* [Scikit-Learn] (https://scikit-learn.org/stable/index.html)
+* [Scikit-Learn](https://scikit-learn.org/stable/index.html)
 
 ## Deployment
 View the deployed web page here... https://jbullis29.github.io/PUBG_Ranked_Analysis/
