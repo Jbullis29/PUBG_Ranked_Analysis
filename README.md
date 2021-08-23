@@ -10,7 +10,7 @@ PUBG: BATTLEGROUNDS is a battle royale shooter game in which 100 people are pitt
 To begin, you must create your character. There are many options available including gender presentation, skin color, and hair color.
 
 The character creation page where [Justin](https://github.com/ooojustin) is making his character
-![alt text](https://www.shazam.com/track/505328111/left-adrift-character-creation)
+[alt text](https://www.shazam.com/track/505328111/left-adrift-character-creation)
 
 Once your character looks the way you want it to, you can enter your dashboard. Here you can change your profile to add personal information, choose which style of game you wish to play, make in-game purchases, and other options to enhance and personalize your gaming experience. 
 
