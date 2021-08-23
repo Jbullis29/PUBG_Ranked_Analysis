@@ -1,0 +1,7 @@
+,Algorithm,Test Accuracy,Train Accuracy
+0,Linear Regression,0.6240804785377865,0.6294461587344407
+0,Decision Tree Classifier,0.9478079331941545,1.0
+0,Decision Tree Classifier,0.9478079331941545,1.0
+1,Random Forest Classifier,0.9613778705636743,1.0
+0,Support Vector Machines,0.9572025052192067,0.9578544061302682
+0,K Nearest Neighbors,0.9530271398747391,0.9522814350400557
