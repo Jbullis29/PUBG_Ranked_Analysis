@@ -14,8 +14,8 @@ The character creation page where [Justin](https://github.com/Justin) is making 
 
 Once your character looks the way you want it to, you can enter your dashboard. Here you can change your profile to add personal information, choose which style of game you wish to play, make in-game purchases, and other options to enhance and personalize your gaming experience. 
 
-This is [Katie](https://github.com/KStrange89)'s dashboard:
-![alt text](https://github.com/Jbullis29/PUBG_Ranked_Analysis/blob/master/pictures/Katie-dashboard.jpg)
+This is [Katie](https://github.com/KStrange89)'s dashboard
+![alt text](https://github.com/Jbullis29/PUBG_Ranked_Analysis/blob/master/pictures/Katie-dashboard.png)
 
 Once you have started a game, you are put into a waiting room while other players are added. In the waiting room, you can duel other players without having to be concerned about damage taken effecting gameplay. However, because a key aspect of the game is equipment collection, you begin with no equipment, and so if players choose to duel in the waiting room, they must do so using only punches and kicks. 
 
@@ -24,13 +24,13 @@ When there are 100 players and the game has begun, everyone is in an airplane fl
 Here is [AJ](https://github.com/AJ-Paine) in the waiting room:
 ![alt text](https://github.com/Jbullis29/PUBG_Ranked_Analysis/blob/master/pictures/AJ-waiting.png)
 
-and [TravBZ](https://github.com/Travbz) flying over the map
+[TravBZ](https://github.com/Travbz) flying over the map
 ![alt text](https://github.com/Jbullis29/PUBG_Ranked_Analysis/blob/master/pictures/TravBZ-plane.jpg)
 
-and [Jordan](https://github.com/Jbullis29) flying over a different map
+[Jordan](https://github.com/Jbullis29) flying over a different map
 ![alt text](https://github.com/Jbullis29/PUBG_Ranked_Analysis/blob/master/pictures/JBZ-plane.JPG)
 
-and [Leah](https://github.com/leahdill) using the standard issue parachute
+[Leah](https://github.com/leahdill) using the standard issue parachute
 ![alt text](https://github.com/Jbullis29/PUBG_Ranked_Analysis/blob/master/pictures/Leah-chute.jpg)
 
 and [TravBZ](https://github.com/Travbz) with a parachute skin he earned through gameplay
@@ -41,11 +41,11 @@ After safely landing, you have to get equipment-armor, weapons, vehicles, etc. t
 This is just one example of a vehicle that can be driven, courtesy of [TravBZ](https://github.com/Travbz)
 ![alt text](https://github.com/Jbullis29/PUBG_Ranked_Analysis/blob/master/pictures/TravBZ-car.jpg)
 
-this is [TravBZ](https://github.com/Travbz) on the hunt for better equipment
+[TravBZ](https://github.com/Travbz) on the hunt for better equipment
 ![alt text](https://github.com/Jbullis29/PUBG_Ranked_Analysis/blob/master/pictures/TravBZ-run.jpg)
 
-and this is [Katie](https://github.com/KStrange89) picking up some equipment
-![alt text](https://github.com/Jbullis29/PUBG_Ranked_Analysis/blob/master/pictures/Katie-pickup.jpg)
+and [Katie](https://github.com/KStrange89) picking up some equipment
+![alt text](https://github.com/Jbullis29/PUBG_Ranked_Analysis/blob/master/pictures/Katie-pickup.png)
 
 While skill definitely plays a role in who wins and loses, there is also a certain amount of luck. Was the area you chose to land filled with awesome equipment and few opposing players? Or did you have to fight off a lot of other players for mediocre stuff?
 
