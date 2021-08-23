@@ -58,20 +58,20 @@ Here we have [Jordan](https://github.com/Jbullis29) displaying both luck and ski
 
 This project was intended to analyze and visualize data from PUBG matches with the end goal of using machine learning to identify the most important features and predict outcomes based on those features. 
 
-To do this, we utilized Python via Jupyter Notebook to make an API call from PUBG's developer API. Weds cleaned using Pandas before employing [Scikit-Learn](https://scikit-learn.org/stable/index.html) to evaluate different machine learning models. 
+To do this, we utilized Python via Jupyter Notebook to make an API call from PUBG's developer API. We cleaned this data using Pandas, before employing [Scikit-Learn](https://scikit-learn.org/stable/index.html) to evaluate different machine learning models. 
 
 We preprocessed the data in [Scikit-Learn](https://scikit-learn.org/stable/index.html) by splitting it into training and test data, scaling where necessary.
 
 We used Tableau and Matplotlib to create visualizations and then built a webpage using HTML, Javascript, CSS and Bootstrap to disply these visualizations.
 
 ## Built With
-* Bootstrap
-* CSS
-* HTML
-* Javascript
-* Jupyter Notebook
-* Pandas
-* Python
+* [Bootstrap](https://getbootstrap.com/)
+* [CSS](https://css-tricks.com/)
+* [HTML](https://html.com/)
+* [Javascript](https://www.javascript.com/)
+* [Jupyter Notebook](https://jupyter.org/)
+* [Pandas](https://pandas.pydata.org/)
+* [Python](https://www.python.org/)
 * [Scikit-Learn](https://scikit-learn.org/stable/index.html)
 
 ## Deployment
