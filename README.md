@@ -38,7 +38,7 @@ and [TravBZ](https://github.com/Travbz) with a parachute skin he earned through 
 
 After safely landing, you have to get equipment&ndash;armor, weapons, vehicles, etc&ndash;to use in your fight. There are also consumables that can be used to restore your health. Every few minutes, the playable area shrinks. Any players outside the playable area take continuous damage until they die or reenter the playable area. This forces remaining players closer together and speeds up the game as it becomes harder to hide from the enemy. 
 
-This is just one example of a vehicle that can be driven, courtesy of [TravBZ](https://github.com/Travbz)
+Here, [TravBZ](https://github.com/Travbz) is driving a car. When entering a vehicle, you have the option of being a driver (if there isn't one already) or a passenger.Once a vehicle has been entered, the control options change and revert back once you have exited.
 ![alt text](https://github.com/Jbullis29/PUBG_Ranked_Analysis/blob/master/pictures/TravBZ-car.jpg)
 
 [TravBZ](https://github.com/Travbz) on the hunt for better equipment
