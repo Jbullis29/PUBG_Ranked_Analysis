@@ -47,3 +47,8 @@ table, th, tr, td {
   color: white;
   background-color: black;
 }
+
+.centerTableau {
+  margin-left: auto;
+  margin-right: auto;
+}
