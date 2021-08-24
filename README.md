@@ -14,8 +14,8 @@ The character creation page where [Justin](https://github.com/ooojustin) is maki
 
 Once your character looks the way you want it to, you can enter your dashboard. Here you can change your profile to add personal information, choose which style of game you wish to play, make in-game purchases, and other options to enhance and personalize your gaming experience. 
 
-This is [Katie](https://github.com/KStrange89)'s dashboard
-![alt text](https://github.com/Jbullis29/PUBG_Ranked_Analysis/blob/master/pictures/Katie-dashboard.png)
+This is [Justin](https://github.com/justineichelberger)'s dashboard
+![alt text](https://github.com/Jbullis29/PUBG_Ranked_Analysis/blob/master/pictures/Justin-dashboard.jpg)
 
 Once you have started a game, you are put into a waiting room while other players are added. In the waiting room, you can duel other players without having to be concerned about damage taken effecting gameplay. However, because a key aspect of the game is equipment collection, you begin with no equipment, and so if players choose to duel in the waiting room, they must do so using only punches, kicks, or thrown apples. 
 
