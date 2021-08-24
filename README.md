@@ -1,3 +1,5 @@
+![alt text](https://github.com/Jbullis29/PUBG_Ranked_Analysis/blob/master/pictures/site.png)
+
 # PUBG: BATTLEGROUNDS Analysis
 
 ## Do You Know What it Takes to Win?
