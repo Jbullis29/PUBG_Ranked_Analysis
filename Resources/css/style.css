@@ -52,3 +52,10 @@ table, th, tr, td {
   margin-left: auto;
   margin-right: auto;
 }
+
+.centerTableau2 {
+  margin: auto;
+  margin-top: 50px;
+  margin-left: 600px;
+}
+
