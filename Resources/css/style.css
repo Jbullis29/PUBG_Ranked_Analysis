@@ -51,6 +51,7 @@ table, th, tr, td {
 .centerTableau {
   margin-left: auto;
   margin-right: auto;
+  padding-top: 10px;
 }
 
 .centerTableau2 {
