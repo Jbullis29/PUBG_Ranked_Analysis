@@ -9,6 +9,8 @@ The 2021 PUBG Mobile Global Championship has a $6,000,000 prize pool. But that's
 
 PUBG: BATTLEGROUNDS is a battle royale shooter game in which 100 people are pitted against each other, sometimes in teams, to scavenge, kill, and survive. The game ends when only one player (or team) remains. There are multiple maps and players choose which they want to play. Players can add other players to a friends list and choose to play on the same team with them.
 
+![alt text](https://github.com/Jbullis29/PUBG_Ranked_Analysis/blob/master/pictures/Group.png)
+
 To begin, you create your character. There are many options available including gender presentation, skin color, and hair color. Once your character looks the way you want it to, you can enter your dashboard. Here you can change your profile to add personal information, choose which style of game you wish to play, make in-game purchases, and other options to enhance and personalize your gaming experience. 
 
 This is [Justin](https://github.com/justineichelberger)'s dashboard
