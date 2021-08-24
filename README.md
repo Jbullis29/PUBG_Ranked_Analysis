@@ -19,7 +19,7 @@ When there are 100 players and the game has begun, everyone is in an airplane fl
 Here is [AJ](https://github.com/AJ-Paine) in the waiting room
 ![alt text](https://github.com/Jbullis29/PUBG_Ranked_Analysis/blob/master/pictures/AJ-waiting.png)
 
-[TravBZ](https://github.com/Travbz) flying over the map
+[TravBZ](https://github.com/Travbz) flying over a map
 ![alt text](https://github.com/Jbullis29/PUBG_Ranked_Analysis/blob/master/pictures/TravBZ-plane.jpg)
 
 [Jordan](https://github.com/Jbullis29) flying over a different map
@@ -54,6 +54,9 @@ Here we have [Jordan](https://github.com/Jbullis29) displaying both luck and ski
 This project was intended to analyze and visualize data from PUBG matches with the end goal of using machine learning to identify the most important features and predict outcomes based on those features. 
 
 To do this, we utilized Python via Jupyter Notebook to make an API call from PUBG's developer API. We cleaned this data using Pandas, before employing [Scikit-Learn](https://scikit-learn.org/stable/index.html) to evaluate different machine learning models. 
+
+This is just a sample of the kinds of statistics we looked at
+![alt text](https://github.com/Jbullis29/PUBG_Ranked_Analysis/blob/master/pictures/Stats.JPG)
 
 We preprocessed the data in [Scikit-Learn](https://scikit-learn.org/stable/index.html) by splitting it into training and test data, scaling where necessary.
 
